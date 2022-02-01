@@ -1,0 +1,20 @@
+head{
+    background-color: grey;
+    text-align: center;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+a:link{
+    color: blue;
+}
+
+a:visited{
+    color:blueviolet;
+}
+a:hover{
+    color:violet;
+}
